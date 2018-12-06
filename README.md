@@ -5,6 +5,6 @@ This repository contains two interview exercises that are required for candidate
 Each exercise should be completed through the development of reproducible R or Python scripts that are merged into the appropriate exercise folder of a _forked version_ of this repository. When complete, please email the forked repository link to L.A. Care's Talent Acquisition Specialist, Jamessa Jones, at **jjones@lacare.org**. 
 
 In addition to completing the tasks of each exercise, the applicants will be assessed on:
-- Coding Styles
+- Coding Style
 - Processing Efficiency
 - Commenting Effectiveness
