@@ -1,4 +1,4 @@
-# Exercise 1 - Development of a Supervised Model
+# Exercise 1 - Development and Evaluation of a Supervised Model
 
 ## Instructions
 1. Download and use the ‘loan.csv’ data from this [location](https://kaggle.com/wendykan/lending-club-loan-data/downloads/lending-club-loan-data.zip).
