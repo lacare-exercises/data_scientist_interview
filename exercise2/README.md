@@ -1,4 +1,4 @@
-# Exercise 2 - Development of an Unsupervised Model
+# Exercise 2 - Development and Analysis of an Unsupervised Model
 
 ## Instructions
 1. Download and use the ‘Medicare_Provider_Util_Payment_PUF_CY2015.txt' file from this [location](https://www.cms.gov/apps/ama/license.asp?file=http://download.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Medicare_Provider_Util_Payment_PUF_CY2015.zip).
