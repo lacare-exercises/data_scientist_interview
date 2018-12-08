@@ -1,11 +1,11 @@
 # Exercise 1 - Development of a Supervised Model
 
 ## Instructions
-1. Download and use the ‘loan.csv’ data from this [location](https://kaggle.com/wendykan/lending-club-loan-data/downloads/lending-club-loan-data.zip).
-2. Filter the “loan_status” variable to only contain “Charged Off” and “Fully Paid”.
-3. Using the “loan_status” variable as the outcome and spliting the data into train and test sets, use the other variables below to develop the most appropriate type of classification model with the train dataset that predicts whether the `loan_status` should be “Charged Off” or “Fully Paid” on the test dataset. 
+1. Download and use the â€˜loan.csvâ€™ data from this [location](https://kaggle.com/wendykan/lending-club-loan-data/downloads/lending-club-loan-data.zip).
+2. Filter the â€œloan_statusâ€ variable to only contain â€œCharged Offâ€ and â€œFully Paidâ€.
+3. Using the â€œloan_statusâ€ variable as the outcome and spliting the data into train and test sets, use the other variables below to develop the most appropriate type of classification model with the train dataset that predicts whether the `loan_status` should be â€œCharged Offâ€ or â€œFully Paidâ€ on the test dataset. 
 4. Exploratory analysis, model development, and model performance metric(s) are left to the discretion of the applicant.
-5. Place your R or Python script in the _excercise1_ folder of your forked repository.
+5. Email the final script to Jamessa Jones.
 
 Predictor variables to be considered for training the model:
 ```
