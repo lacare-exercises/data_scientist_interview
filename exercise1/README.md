@@ -5,6 +5,7 @@
 2. Filter the “loan_status” variable to only contain “Charged Off” and “Fully Paid”.
 3. Using the “loan_status” variable as the outcome and spliting the data into train and test sets, use the other variables below to develop the most appropriate type of classification model with the train dataset that predicts whether the `loan_status` should be “Charged Off” or “Fully Paid” on the test dataset. 
 4. Exploratory analysis, model development, and model performance metric(s) are left to the discretion of the applicant.
+5. Email your finalized, completely reproducible script as an attachment to L.A. Care's Talent Acquisition Specialist, Jamessa Jones, at jjones@lacare.org. The title of the script should be `lacare_ex1_<your name>_<yyyymmdd>.<r or py>` and should be submitted with your script for [exercise 2](https://github.com/lacare-exercises/data_scientist_interview/tree/master/exercise2).
 
 Predictor variables to be considered for training the model:
 ```
