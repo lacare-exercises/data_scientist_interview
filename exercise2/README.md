@@ -6,7 +6,7 @@
 3. Develop an unsupervised model to identify different clusters of Pain Management providers based on their HCPCS and beneficiary utilization information. 
 4. Identify providers that appear to be in outlier clusters and explain why.
 5. Exploratory analysis, model development, and model explanation are left to the discretion of the applicant.
-6. Email your finalized, completely reproducible script as an attachment to L.A. Care's Talent Acquisition Specialist, Jamessa Jones, at jjones@lacare.org. The title of the script should be `lacare_ex2_<your_name>_<yyyymmdd>.<r_or_py>` and should be submitted with your script for [exercise 1](https://github.com/lacare-exercises/data_scientist_interview/tree/master/exercise1).
+6. Email your finalized, completely reproducible script as an attachment to L.A. Care's Talent Acquisition Specialist, Jamessa Jones, at jjones@lacare.org. The title of the script should be `lacare_ex2_<your name>_<yyyymmdd>.<r or py>` and should be submitted with your script for [exercise 1](https://github.com/lacare-exercises/data_scientist_interview/tree/master/exercise1).
 
 ## Assessment
 The script developed by the applicant will be assessesd for:
