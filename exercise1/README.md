@@ -9,7 +9,7 @@
 
 3. Exploratory analysis, model development, and model performance metric(s) are left to the discretion of the applicant.
 
-4. Email your finalized, completely reproducible script as an attachment to L.A. Care's Talent Acquisition Specialist, Jamessa Jones, at jjones@lacare.org. The title of the script should be `lacare_ex1_<your name>_<yyyymmdd>.<r or py>` and should be submitted with your script for [exercise 2](https://github.com/lacare-exercises/data_scientist_interview/tree/master/exercise2).
+4. Email your finalized, completely reproducible script as an attachment to L.A. Care's Talent Acquisition Specialist, Jamessa Jones, at jjones@lacare.org. The title of the script should be `lacare_ex1_<your name>_<yyyymmdd>.<r or py>`.
 
 ## Assessment
 The script developed by the applicant will be assessesd for:
