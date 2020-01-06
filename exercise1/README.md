@@ -3,7 +3,7 @@
 ## Instructions
 1. **Programatically** download the 'loan_data.zip' file from the location below, then extract and read the ‘loan_data.csv’ file that it contains. **If the data download and extraction is not included as part of the solution, the submission will not be evaluated further.** .zip file location: 
   
-  https://s3.us-east-2.amazonaws.com/example.data/la_care_ml_challenge.zip
+  https://s3.us-east-2.amazonaws.com/example.data/lacare_ml_challenge.zip
   
 2. Using the “loan_status” variable as the outcome and spliting the data into train and test sets, use the other variables to develop the most appropriate type of classification model with the train dataset that predicts whether the `loan_status` should be “Charged Off” or “Fully Paid” on the test dataset. 
 
